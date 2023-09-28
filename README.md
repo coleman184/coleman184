@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coleman184
 - 👀 I’m interested in Coding and games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
